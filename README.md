@@ -7,10 +7,13 @@
 I'm a passionate developer with a love for **JavaScript** 🚀. When I'm not coding, you can find me exploring new technologies or watching anime.
 
 ### Get in Touch
+[![](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
 
-* **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-* **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-* **Instagram**: [@your-instagram-handle](https://www.instagram.com/your-instagram-handle/)
+[1]: https://www.facebook.com/your-facebook-username
+[2]: https://www.instagram.com/your-instagram-username
+[3]: https://www.linkedin.com/in/your-linkedin-username
 
 ### Fun Fact
 
