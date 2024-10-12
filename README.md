@@ -30,6 +30,8 @@ He/Him
 * 👯 I'm looking to collaborate on open-source projects.
 * 🤔 I'm looking for help with optimizing my code.
 
+* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifudin24&hide=TeX&layout=compact)
+
 ### Ask Me About
 
 * JavaScript best practices
