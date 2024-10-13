@@ -1,5 +1,5 @@
 ## Hello, I'm Afif Waliyudin 👋
-![Header image]([https://raw.githubusercontent.com/erfan-bagus/erfan-bagus/main/assets/GitHub_Header.jpg](https://github.com/afifudin24/afifudin24/blob/main/assets/AFIF%20WALIYUDIN%20(1).png))
+![Header image]([(https://github.com/afifudin24/afifudin24/blob/main/assets/AFIF%20WALIYUDIN%20(1).png)])
 
 ### About Me
 
