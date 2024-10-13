@@ -1,6 +1,6 @@
-## Hello, I'm Afifudin24 👋
+## Hello, I'm Afif Waliyudin 👋
 
-[![Afifudin24](https://avatars.githubusercontent.com/u/your-github-id?v=4)](https://github.com/afifudin24)
+[![Afifudin24](https://avatars.githubusercontent.com/u/afifudin24?v=4)](https://github.com/afifudin24)
 
 ### About Me
 
